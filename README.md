@@ -2,8 +2,7 @@
 
 This is the GitHub repository for the paper  
 ["Thermodynamically consistent viscoelastic constitutive artificial neural networks: Automating the pipeline from experimental data to finite element simulations"](https://doi.org/10.1016/j.cma.2026.119080),  
-K.P. Abdolazizi, R.C. Aydin, C.J. Cyron, K. Linka,  
-*Computer Methods in Applied Mechanics and Engineering* **460**:119080, 2026.
+K.P. Abdolazizi, R.C. Aydin, C.J. Cyron, K. Linka, *Computer Methods in Applied Mechanics and Engineering* **460**:119080, 2026.
 
 <p align="center">
   <img src="./figures/graphical_abstract.png" alt="Graphical Abstract" width="900">
